@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Services &#8211; Histórica Engenharia</title>
-	<atom:link href="https://www.historicaengenharia.com/services/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.historicaengenharia.com/</link>
+	<atom:link href="http://www.historicaengenharia.com/services/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.historicaengenharia.com/</link>
 	<description>Escritório de Engenharia e Arquitetura</description>
 	<lastBuildDate>Mon, 16 Oct 2017 23:19:12 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -19,15 +19,15 @@
 	<generator>https://wordpress.org/?v=4.8.2</generator>
 
 <image>
-	<url>https://i1.wp.com/www.historicaengenharia.com/wp-content/uploads/2017/07/favicon.png?fit=32%2C32&#038;ssl=1</url>
+	<url>https://i0.wp.com/henas01f.myqnapcloud.com/wp-content/uploads/2017/07/favicon.png?fit=32%2C32&#038;ssl=1</url>
 	<title>Services &#8211; Histórica Engenharia</title>
-	<link>https://www.historicaengenharia.com/</link>
+	<link>http://www.historicaengenharia.com/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">133191043</site>	<item>
 		<title>Empresas</title>
-		<link>https://www.historicaengenharia.com/services/empresas-2/</link>
+		<link>http://www.historicaengenharia.com/services/empresas-2/</link>
 		<pubDate>Tue, 25 Jul 2017 18:40:22 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 				<category><![CDATA[A]]></category>
@@ -39,7 +39,7 @@
 		<post-id xmlns="com-wordpress:feed-additions:1">69</post-id>	</item>
 		<item>
 		<title>Setor Público</title>
-		<link>https://www.historicaengenharia.com/services/setor-publico/</link>
+		<link>http://www.historicaengenharia.com/services/setor-publico/</link>
 		<pubDate>Tue, 25 Jul 2017 18:38:26 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 				<category><![CDATA[A]]></category>
@@ -51,7 +51,7 @@
 		<post-id xmlns="com-wordpress:feed-additions:1">67</post-id>	</item>
 		<item>
 		<title>Particular</title>
-		<link>https://www.historicaengenharia.com/services/empresas/</link>
+		<link>http://www.historicaengenharia.com/services/empresas/</link>
 		<pubDate>Tue, 25 Jul 2017 18:31:19 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 				<category><![CDATA[A]]></category>
@@ -63,7 +63,7 @@
 		<post-id xmlns="com-wordpress:feed-additions:1">66</post-id>	</item>
 		<item>
 		<title>Administração de Obras</title>
-		<link>https://www.historicaengenharia.com/services/administracao-de-obras/</link>
+		<link>http://www.historicaengenharia.com/services/administracao-de-obras/</link>
 		<pubDate>Tue, 25 Jul 2017 17:53:53 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 				<category><![CDATA[B]]></category>
@@ -75,7 +75,7 @@
 		<post-id xmlns="com-wordpress:feed-additions:1">49</post-id>	</item>
 		<item>
 		<title>Consultorias</title>
-		<link>https://www.historicaengenharia.com/services/consultorias/</link>
+		<link>http://www.historicaengenharia.com/services/consultorias/</link>
 		<pubDate>Tue, 25 Jul 2017 17:53:34 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 				<category><![CDATA[B]]></category>
@@ -87,7 +87,7 @@
 		<post-id xmlns="com-wordpress:feed-additions:1">48</post-id>	</item>
 		<item>
 		<title>Projetos Estruturais</title>
-		<link>https://www.historicaengenharia.com/services/projetos-estruturais/</link>
+		<link>http://www.historicaengenharia.com/services/projetos-estruturais/</link>
 		<pubDate>Tue, 25 Jul 2017 17:53:20 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 				<category><![CDATA[B]]></category>
@@ -99,7 +99,7 @@
 		<post-id xmlns="com-wordpress:feed-additions:1">47</post-id>	</item>
 		<item>
 		<title>Projetos Arquitetônicos</title>
-		<link>https://www.historicaengenharia.com/services/projetos-arquitetonicos/</link>
+		<link>http://www.historicaengenharia.com/services/projetos-arquitetonicos/</link>
 		<pubDate>Tue, 25 Jul 2017 17:52:57 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 				<category><![CDATA[B]]></category>
