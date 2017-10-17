@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Services &#8211; Histórica Engenharia</title>
+	<atom:link href="https://historicaeng.github.io/historicaeng/services/feed/" rel="self" type="application/rss+xml" />
+	<link>https://historicaeng.github.io/historicaeng/</link>
+	<description>Escritório de Engenharia e Arquitetura</description>
+	<lastBuildDate>Mon, 16 Oct 2017 23:19:12 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.2</generator>
+
+<image>
+	<url>https://i1.wp.com/www.historicaengenharia.com/wp-content/uploads/2017/07/favicon.png?fit=32%2C32&#038;ssl=1</url>
+	<title>Services &#8211; Histórica Engenharia</title>
+	<link>https://historicaeng.github.io/historicaeng/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">133191043</site>	<item>
+		<title>Empresas</title>
+		<link>https://historicaeng.github.io/historicaeng/services/empresas-2/</link>
+		<pubDate>Tue, 25 Jul 2017 18:40:22 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[A]]></category>
+
+		<guid isPermaLink="false">http://192.168.41.1/WordPress/?post_type=services&#038;p=69</guid>
+		<description><![CDATA[Elaboramos desde projeto a adequações junto as normas pertinentes das instalações da sua empresa. Além da elaborar e adequar planilhas requeridas pelas principais agências de financiamento.]]></description>
+				<content:encoded><![CDATA[<p>Elaboramos desde projeto a adequações junto as normas pertinentes das instalações da sua empresa. Além da elaborar e adequar planilhas requeridas pelas principais agências de financiamento.</p>
+]]></content:encoded>
+		<post-id xmlns="com-wordpress:feed-additions:1">69</post-id>	</item>
+		<item>
+		<title>Setor Público</title>
+		<link>https://historicaeng.github.io/historicaeng/services/setor-publico/</link>
+		<pubDate>Tue, 25 Jul 2017 18:38:26 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[A]]></category>
+
+		<guid isPermaLink="false">http://192.168.41.1/WordPress/?post_type=services&#038;p=67</guid>
+		<description><![CDATA[Elaboramos projetos de praças, escolas, orgãos públicos e pavimentação. Também fiscalizamos a execução destes elaborando as suas medições até o fim do empreendimento.]]></description>
+				<content:encoded><![CDATA[<p>Elaboramos projetos de praças, escolas, orgãos públicos e pavimentação. Também fiscalizamos a execução destes elaborando as suas medições até o fim do empreendimento.</p>
+]]></content:encoded>
+		<post-id xmlns="com-wordpress:feed-additions:1">67</post-id>	</item>
+		<item>
+		<title>Particular</title>
+		<link>https://historicaeng.github.io/historicaeng/services/empresas/</link>
+		<pubDate>Tue, 25 Jul 2017 18:31:19 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[A]]></category>
+
+		<guid isPermaLink="false">http://192.168.41.1/WordPress/?post_type=services&#038;p=66</guid>
+		<description><![CDATA[Auxiliamos as suas ideias tornarem realidade, concebendo para o seu empreendimento desde o projeto arquitetônico e estrutural às planilhas necessárias das principais agências de financiamento.]]></description>
+				<content:encoded><![CDATA[<p>Auxiliamos as suas ideias tornarem realidade, concebendo para o seu empreendimento desde o projeto arquitetônico e estrutural às planilhas necessárias das principais agências de financiamento.</p>
+]]></content:encoded>
+		<post-id xmlns="com-wordpress:feed-additions:1">66</post-id>	</item>
+		<item>
+		<title>Administração de Obras</title>
+		<link>https://historicaeng.github.io/historicaeng/services/administracao-de-obras/</link>
+		<pubDate>Tue, 25 Jul 2017 17:53:53 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[B]]></category>
+
+		<guid isPermaLink="false">http://192.168.41.1/WordPress/?post_type=services&#038;p=49</guid>
+		<description><![CDATA[Escolha e planejamento da equipe de trabalho. Sendo responsável pela administração e execução da obra desde seu início até o fim .]]></description>
+				<content:encoded><![CDATA[<p>Escolha e planejamento da equipe de trabalho. Sendo responsável pela administração e execução da obra desde seu início até o fim .</p>
+]]></content:encoded>
+		<post-id xmlns="com-wordpress:feed-additions:1">49</post-id>	</item>
+		<item>
+		<title>Consultorias</title>
+		<link>https://historicaeng.github.io/historicaeng/services/consultorias/</link>
+		<pubDate>Tue, 25 Jul 2017 17:53:34 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[B]]></category>
+
+		<guid isPermaLink="false">http://192.168.41.1/WordPress/?post_type=services&#038;p=48</guid>
+		<description><![CDATA[Respaldo técnico em vicios construtivos, análise e determinação de problemas estruturais, apresentando uma solução técnica econômica. Além da elaboração de laudos técnicos.]]></description>
+				<content:encoded><![CDATA[<p>Respaldo técnico em vicios construtivos, análise e determinação de problemas estruturais, apresentando uma solução técnica econômica. Além da elaboração de laudos técnicos.</p>
+]]></content:encoded>
+		<post-id xmlns="com-wordpress:feed-additions:1">48</post-id>	</item>
+		<item>
+		<title>Projetos Estruturais</title>
+		<link>https://historicaeng.github.io/historicaeng/services/projetos-estruturais/</link>
+		<pubDate>Tue, 25 Jul 2017 17:53:20 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[B]]></category>
+
+		<guid isPermaLink="false">http://192.168.41.1/WordPress/?post_type=services&#038;p=47</guid>
+		<description><![CDATA[Redução dos gastos em estruturas de concreto armado, mediante a um estudo do projeto arquitetônico apresentado e um dimensonamento da estrutura conforme as normas da ABNT.]]></description>
+				<content:encoded><![CDATA[<p>Redução dos gastos em estruturas de concreto armado, mediante a um estudo do projeto arquitetônico apresentado e um dimensonamento da estrutura conforme as normas da ABNT.</p>
+]]></content:encoded>
+		<post-id xmlns="com-wordpress:feed-additions:1">47</post-id>	</item>
+		<item>
+		<title>Projetos Arquitetônicos</title>
+		<link>https://historicaeng.github.io/historicaeng/services/projetos-arquitetonicos/</link>
+		<pubDate>Tue, 25 Jul 2017 17:52:57 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[B]]></category>
+
+		<guid isPermaLink="false">http://192.168.41.1/WordPress/?post_type=services&#038;p=46</guid>
+		<description><![CDATA[Elaboração e concepção de um projeto arquitetônico exclusivo e personalizado ao cliente, conforme as necessidades e exigências apresentadas.]]></description>
+				<content:encoded><![CDATA[<p>Elaboração e concepção de um projeto arquitetônico exclusivo e personalizado ao cliente, conforme as necessidades e exigências apresentadas.</p>
+]]></content:encoded>
+		<post-id xmlns="com-wordpress:feed-additions:1">46</post-id>	</item>
+	</channel>
+</rss>
