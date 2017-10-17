@@ -9,13 +9,8 @@
 
 <channel>
 	<title>B &#8211; Histórica Engenharia</title>
-<<<<<<< HEAD
-	<atom:link href="http://www.historicaengenharia.com/category/b/feed/" rel="self" type="application/rss+xml" />
-	<link>http://www.historicaengenharia.com/</link>
-=======
-	<atom:link href="https://historicaeng.github.io/category/b/feed/" rel="self" type="application/rss+xml" />
-	<link>https://historicaeng.github.io/</link>
->>>>>>> parent of 406cb7f... update-2017-10-17
+	<atom:link href="https://www.historicaengenharia.com/category/b/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.historicaengenharia.com/</link>
 	<description>Escritório de Engenharia e Arquitetura</description>
 	<lastBuildDate>Mon, 16 Oct 2017 23:19:12 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -24,13 +19,9 @@
 	<generator>https://wordpress.org/?v=4.8.2</generator>
 
 <image>
-	<url>https://i0.wp.com/henas01f.myqnapcloud.com/wp-content/uploads/2017/07/favicon.png?fit=32%2C32&#038;ssl=1</url>
+	<url>https://i1.wp.com/www.historicaengenharia.com/wp-content/uploads/2017/07/favicon.png?fit=32%2C32&#038;ssl=1</url>
 	<title>B &#8211; Histórica Engenharia</title>
-<<<<<<< HEAD
-	<link>http://www.historicaengenharia.com/</link>
-=======
-	<link>https://historicaeng.github.io/</link>
->>>>>>> parent of 406cb7f... update-2017-10-17
+	<link>https://www.historicaengenharia.com/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
