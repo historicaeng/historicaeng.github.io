@@ -9,11 +9,11 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 	<title>Histórica Engenharia &lsaquo; Log In</title>
 	<link rel='dns-prefetch' href='//s.w.org' />
-<script type='text/javascript' src='https://historicaeng.github.io/historicaeng/wp-admin/load-scripts.php?c=1&amp;load%5B%5D=jquery-core,jquery-migrate&amp;ver=4.8.2'></script>
-<script type='text/javascript' src='https://historicaeng.github.io/historicaeng/wp-content/plugins/jetpack/modules/sso/jetpack-sso-login.js?ver=5.4'></script>
-<link rel='stylesheet' href='https://historicaeng.github.io/historicaeng/wp-admin/load-styles.php?c=1&amp;dir=ltr&amp;load%5B%5D=dashicons,buttons,forms,l10n,login&amp;ver=4.8.2' type='text/css' media='all' />
-<link rel='stylesheet' id='genericons-css'  href='https://historicaeng.github.io/historicaeng/wp-content/plugins/menu-icons/includes/library/icon-picker/css/types/genericons.min.css?ver=3.4' type='text/css' media='all' />
-<link rel='stylesheet' id='jetpack-sso-login-css'  href='https://historicaeng.github.io/historicaeng/wp-content/plugins/jetpack/modules/sso/jetpack-sso-login.css?ver=5.4' type='text/css' media='all' />
+<script type='text/javascript' src='https://historicaeng.github.io/wp-admin/load-scripts.php?c=1&amp;load%5B%5D=jquery-core,jquery-migrate&amp;ver=4.8.2'></script>
+<script type='text/javascript' src='https://historicaeng.github.io/wp-content/plugins/jetpack/modules/sso/jetpack-sso-login.js?ver=5.4'></script>
+<link rel='stylesheet' href='https://historicaeng.github.io/wp-admin/load-styles.php?c=1&amp;dir=ltr&amp;load%5B%5D=dashicons,buttons,forms,l10n,login&amp;ver=4.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='genericons-css'  href='https://historicaeng.github.io/wp-content/plugins/menu-icons/includes/library/icon-picker/css/types/genericons.min.css?ver=3.4' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack-sso-login-css'  href='https://historicaeng.github.io/wp-content/plugins/jetpack/modules/sso/jetpack-sso-login.css?ver=5.4' type='text/css' media='all' />
 			<style>
 				.jetpack-sso .message {
 					margin-top: 20px;
@@ -35,7 +35,7 @@
 		<div id="login">
 		<h1><a href="https://wordpress.org/" title="Powered by WordPress" tabindex="-1">Histórica Engenharia</a></h1>
 	
-<form name="loginform" id="loginform" action="https://historicaeng.github.io/historicaeng/wp-login.php" method="post">
+<form name="loginform" id="loginform" action="https://historicaeng.github.io/wp-login.php" method="post">
 	<p>
 		<label for="user_login">Username or Email Address<br />
 		<input type="text" name="log" id="user_login" class="input" value="" size="20" /></label>
@@ -48,7 +48,7 @@
 			
 
 			<div id="jetpack-sso-wrap__action">
-				<a rel="nofollow" href="https://historicaeng.github.io/historicaeng/wp-login.php?action=jetpack-sso" class="jetpack-sso button button-primary"><span><span class="genericon genericon-wordpress"></span> Log in with WordPress.com</span></a>
+				<a rel="nofollow" href="https://historicaeng.github.io/wp-login.php?action=jetpack-sso" class="jetpack-sso button button-primary"><span><span class="genericon genericon-wordpress"></span> Log in with WordPress.com</span></a>
 									<p>
 						You can now save time spent logging in by connecting your WordPress.com account to Histórica Engenharia.					</p>
 							</div>
@@ -57,22 +57,22 @@
 					<span>Or</span>
 				</div>
 
-				<a href="https://historicaeng.github.io/historicaeng/wp-login.php?jetpack-sso-show-default-form=1" class="jetpack-sso-toggle wpcom">
+				<a href="https://historicaeng.github.io/wp-login.php?jetpack-sso-show-default-form=1" class="jetpack-sso-toggle wpcom">
 					Log in with username and password				</a>
 
-				<a href="https://historicaeng.github.io/historicaeng/wp-login.php?jetpack-sso-show-default-form=0" class="jetpack-sso-toggle default">
+				<a href="https://historicaeng.github.io/wp-login.php?jetpack-sso-show-default-form=0" class="jetpack-sso-toggle default">
 					Log in with WordPress.com				</a>
 					</div>
 			<p class="forgetmenot"><label for="rememberme"><input name="rememberme" type="checkbox" id="rememberme" value="forever"  /> Remember Me</label></p>
 	<p class="submit">
 		<input type="submit" name="wp-submit" id="wp-submit" class="button button-primary button-large" value="Log In" />
-		<input type="hidden" name="redirect_to" value="https://historicaeng.github.io/historicaeng/wp-admin/" />
+		<input type="hidden" name="redirect_to" value="https://historicaeng.github.io/wp-admin/" />
 		<input type="hidden" name="testcookie" value="1" />
 	</p>
 </form>
 
 <p id="nav">
-	<a href="https://historicaeng.github.io/historicaeng/wp-login.php?action=lostpassword">Lost your password?</a>
+	<a href="https://historicaeng.github.io/wp-login.php?action=lostpassword">Lost your password?</a>
 </p>
 
 <script type="text/javascript">
@@ -96,12 +96,12 @@ wp_attempt_focus();
 if(typeof wpOnload=='function')wpOnload();
 </script>
 
-	<p id="backtoblog"><a href="https://historicaeng.github.io/historicaeng/">&larr; Back to Histórica Engenharia</a></p>
+	<p id="backtoblog"><a href="https://historicaeng.github.io/">&larr; Back to Histórica Engenharia</a></p>
 	
 	</div>
 
 	
-	<link rel='stylesheet' id='jetpack_css-css'  href='https://historicaeng.github.io/historicaeng/wp-content/plugins/jetpack/css/jetpack.css?ver=5.4' type='text/css' media='all' />
+	<link rel='stylesheet' id='jetpack_css-css'  href='https://historicaeng.github.io/wp-content/plugins/jetpack/css/jetpack.css?ver=5.4' type='text/css' media='all' />
 <script type="text/javascript">jQuery(function($) {
   
   var dfltlogo = $('.site-logo').attr('src');

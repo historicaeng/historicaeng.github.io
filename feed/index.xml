@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Histórica Engenharia</title>
-	<atom:link href="https://historicaeng.github.io/historicaeng/feed/" rel="self" type="application/rss+xml" />
-	<link>https://historicaeng.github.io/historicaeng/</link>
+	<atom:link href="https://historicaeng.github.io/feed/" rel="self" type="application/rss+xml" />
+	<link>https://historicaeng.github.io/</link>
 	<description>Escritório de Engenharia e Arquitetura</description>
 	<lastBuildDate>Mon, 16 Oct 2017 23:19:12 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,14 +21,14 @@
 <image>
 	<url>https://i1.wp.com/www.historicaengenharia.com/wp-content/uploads/2017/07/favicon.png?fit=32%2C32&#038;ssl=1</url>
 	<title>Histórica Engenharia</title>
-	<link>https://historicaeng.github.io/historicaeng/</link>
+	<link>https://historicaeng.github.io/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">133191043</site>	<item>
 		<title>Hello world!</title>
-		<link>https://historicaeng.github.io/historicaeng/hello-world/</link>
-		<comments>https://historicaeng.github.io/historicaeng/hello-world/#comments</comments>
+		<link>https://historicaeng.github.io/hello-world/</link>
+		<comments>https://historicaeng.github.io/hello-world/#comments</comments>
 		<pubDate>Tue, 25 Jul 2017 14:25:47 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 				<category><![CDATA[Uncategorized]]></category>
@@ -37,7 +37,7 @@
 		<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
 				<content:encoded><![CDATA[<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
-			<wfw:commentRss>https://historicaeng.github.io/historicaeng/hello-world/feed/</wfw:commentRss>
+			<wfw:commentRss>https://historicaeng.github.io/hello-world/feed/</wfw:commentRss>
 		<slash:comments>1</slash:comments>
 	<post-id xmlns="com-wordpress:feed-additions:1">1</post-id>	</item>
 	</channel>
