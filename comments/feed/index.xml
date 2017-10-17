@@ -7,8 +7,13 @@
 	>
 <channel>
 	<title>Comments for Histórica Engenharia</title>
+<<<<<<< HEAD
 	<atom:link href="http://www.historicaengenharia.com/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>http://www.historicaengenharia.com/</link>
+=======
+	<atom:link href="https://historicaeng.github.io/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://historicaeng.github.io/</link>
+>>>>>>> parent of 406cb7f... update-2017-10-17
 	<description>Escritório de Engenharia e Arquitetura</description>
 	<lastBuildDate>Tue, 25 Jul 2017 14:25:47 +0000</lastBuildDate>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
@@ -16,7 +21,11 @@
 	<generator>https://wordpress.org/?v=4.8.2</generator>
 	<item>
 		<title>Comment on Hello world! by Mr WordPress</title>
+<<<<<<< HEAD
 		<link>http://www.historicaengenharia.com/hello-world/#comment-1</link>
+=======
+		<link>https://historicaeng.github.io/hello-world/#comment-1</link>
+>>>>>>> parent of 406cb7f... update-2017-10-17
 		<dc:creator><![CDATA[Mr WordPress]]></dc:creator>
 		<pubDate>Tue, 25 Jul 2017 14:25:47 +0000</pubDate>
 		<guid isPermaLink="false">http://192.168.41.1/WordPress/?p=1#comment-1</guid>

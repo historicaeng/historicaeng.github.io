@@ -9,8 +9,13 @@
 
 <channel>
 	<title>admin &#8211; Histórica Engenharia</title>
+<<<<<<< HEAD
 	<atom:link href="http://www.historicaengenharia.com/author/admin/feed/" rel="self" type="application/rss+xml" />
 	<link>http://www.historicaengenharia.com/</link>
+=======
+	<atom:link href="https://historicaeng.github.io/author/admin/feed/" rel="self" type="application/rss+xml" />
+	<link>https://historicaeng.github.io/</link>
+>>>>>>> parent of 406cb7f... update-2017-10-17
 	<description>Escritório de Engenharia e Arquitetura</description>
 	<lastBuildDate>Mon, 16 Oct 2017 23:19:12 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,14 +26,23 @@
 <image>
 	<url>https://i0.wp.com/henas01f.myqnapcloud.com/wp-content/uploads/2017/07/favicon.png?fit=32%2C32&#038;ssl=1</url>
 	<title>admin &#8211; Histórica Engenharia</title>
+<<<<<<< HEAD
 	<link>http://www.historicaengenharia.com/</link>
+=======
+	<link>https://historicaeng.github.io/</link>
+>>>>>>> parent of 406cb7f... update-2017-10-17
 	<width>32</width>
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">133191043</site>	<item>
 		<title>Hello world!</title>
+<<<<<<< HEAD
 		<link>http://www.historicaengenharia.com/hello-world/</link>
 		<comments>http://www.historicaengenharia.com/hello-world/#comments</comments>
+=======
+		<link>https://historicaeng.github.io/hello-world/</link>
+		<comments>https://historicaeng.github.io/hello-world/#comments</comments>
+>>>>>>> parent of 406cb7f... update-2017-10-17
 		<pubDate>Tue, 25 Jul 2017 14:25:47 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 				<category><![CDATA[Uncategorized]]></category>
@@ -37,7 +51,11 @@
 		<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
 				<content:encoded><![CDATA[<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
+<<<<<<< HEAD
 			<wfw:commentRss>http://www.historicaengenharia.com/hello-world/feed/</wfw:commentRss>
+=======
+			<wfw:commentRss>https://historicaeng.github.io/hello-world/feed/</wfw:commentRss>
+>>>>>>> parent of 406cb7f... update-2017-10-17
 		<slash:comments>1</slash:comments>
 	<post-id xmlns="com-wordpress:feed-additions:1">1</post-id>	</item>
 	</channel>

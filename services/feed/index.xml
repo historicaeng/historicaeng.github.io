@@ -9,8 +9,13 @@
 
 <channel>
 	<title>Services &#8211; Histórica Engenharia</title>
+<<<<<<< HEAD
 	<atom:link href="http://www.historicaengenharia.com/services/feed/" rel="self" type="application/rss+xml" />
 	<link>http://www.historicaengenharia.com/</link>
+=======
+	<atom:link href="https://historicaeng.github.io/services/feed/" rel="self" type="application/rss+xml" />
+	<link>https://historicaeng.github.io/</link>
+>>>>>>> parent of 406cb7f... update-2017-10-17
 	<description>Escritório de Engenharia e Arquitetura</description>
 	<lastBuildDate>Mon, 16 Oct 2017 23:19:12 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,13 +26,21 @@
 <image>
 	<url>https://i0.wp.com/henas01f.myqnapcloud.com/wp-content/uploads/2017/07/favicon.png?fit=32%2C32&#038;ssl=1</url>
 	<title>Services &#8211; Histórica Engenharia</title>
+<<<<<<< HEAD
 	<link>http://www.historicaengenharia.com/</link>
+=======
+	<link>https://historicaeng.github.io/</link>
+>>>>>>> parent of 406cb7f... update-2017-10-17
 	<width>32</width>
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">133191043</site>	<item>
 		<title>Empresas</title>
+<<<<<<< HEAD
 		<link>http://www.historicaengenharia.com/services/empresas-2/</link>
+=======
+		<link>https://historicaeng.github.io/services/empresas-2/</link>
+>>>>>>> parent of 406cb7f... update-2017-10-17
 		<pubDate>Tue, 25 Jul 2017 18:40:22 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 				<category><![CDATA[A]]></category>
@@ -39,7 +52,11 @@
 		<post-id xmlns="com-wordpress:feed-additions:1">69</post-id>	</item>
 		<item>
 		<title>Setor Público</title>
+<<<<<<< HEAD
 		<link>http://www.historicaengenharia.com/services/setor-publico/</link>
+=======
+		<link>https://historicaeng.github.io/services/setor-publico/</link>
+>>>>>>> parent of 406cb7f... update-2017-10-17
 		<pubDate>Tue, 25 Jul 2017 18:38:26 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 				<category><![CDATA[A]]></category>
@@ -51,7 +68,11 @@
 		<post-id xmlns="com-wordpress:feed-additions:1">67</post-id>	</item>
 		<item>
 		<title>Particular</title>
+<<<<<<< HEAD
 		<link>http://www.historicaengenharia.com/services/empresas/</link>
+=======
+		<link>https://historicaeng.github.io/services/empresas/</link>
+>>>>>>> parent of 406cb7f... update-2017-10-17
 		<pubDate>Tue, 25 Jul 2017 18:31:19 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 				<category><![CDATA[A]]></category>
@@ -63,7 +84,11 @@
 		<post-id xmlns="com-wordpress:feed-additions:1">66</post-id>	</item>
 		<item>
 		<title>Administração de Obras</title>
+<<<<<<< HEAD
 		<link>http://www.historicaengenharia.com/services/administracao-de-obras/</link>
+=======
+		<link>https://historicaeng.github.io/services/administracao-de-obras/</link>
+>>>>>>> parent of 406cb7f... update-2017-10-17
 		<pubDate>Tue, 25 Jul 2017 17:53:53 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 				<category><![CDATA[B]]></category>
@@ -75,7 +100,11 @@
 		<post-id xmlns="com-wordpress:feed-additions:1">49</post-id>	</item>
 		<item>
 		<title>Consultorias</title>
+<<<<<<< HEAD
 		<link>http://www.historicaengenharia.com/services/consultorias/</link>
+=======
+		<link>https://historicaeng.github.io/services/consultorias/</link>
+>>>>>>> parent of 406cb7f... update-2017-10-17
 		<pubDate>Tue, 25 Jul 2017 17:53:34 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 				<category><![CDATA[B]]></category>
@@ -87,7 +116,11 @@
 		<post-id xmlns="com-wordpress:feed-additions:1">48</post-id>	</item>
 		<item>
 		<title>Projetos Estruturais</title>
+<<<<<<< HEAD
 		<link>http://www.historicaengenharia.com/services/projetos-estruturais/</link>
+=======
+		<link>https://historicaeng.github.io/services/projetos-estruturais/</link>
+>>>>>>> parent of 406cb7f... update-2017-10-17
 		<pubDate>Tue, 25 Jul 2017 17:53:20 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 				<category><![CDATA[B]]></category>
@@ -99,7 +132,11 @@
 		<post-id xmlns="com-wordpress:feed-additions:1">47</post-id>	</item>
 		<item>
 		<title>Projetos Arquitetônicos</title>
+<<<<<<< HEAD
 		<link>http://www.historicaengenharia.com/services/projetos-arquitetonicos/</link>
+=======
+		<link>https://historicaeng.github.io/services/projetos-arquitetonicos/</link>
+>>>>>>> parent of 406cb7f... update-2017-10-17
 		<pubDate>Tue, 25 Jul 2017 17:52:57 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 				<category><![CDATA[B]]></category>
