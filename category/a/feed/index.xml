@@ -9,8 +9,8 @@
 
 <channel>
 	<title>A &#8211; Histórica Engenharia</title>
-	<atom:link href="https://historicaeng.github.io/category/a/feed/" rel="self" type="application/rss+xml" />
-	<link>https://historicaeng.github.io/</link>
+	<atom:link href="https://www.historicaengenharia.com/category/a/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.historicaengenharia.com/</link>
 	<description>Escritório de Engenharia e Arquitetura</description>
 	<lastBuildDate>Mon, 16 Oct 2017 23:19:12 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,7 +21,7 @@
 <image>
 	<url>https://i1.wp.com/www.historicaengenharia.com/wp-content/uploads/2017/07/favicon.png?fit=32%2C32&#038;ssl=1</url>
 	<title>A &#8211; Histórica Engenharia</title>
-	<link>https://historicaeng.github.io/</link>
+	<link>https://www.historicaengenharia.com/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
